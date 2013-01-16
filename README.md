@@ -1,1 +1,1 @@
-Personal maven repo
+Personal maven repo.
